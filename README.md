@@ -1,6 +1,8 @@
 # todo
-this project takes work from user 
-Project author: kundan kumar singh<br/>
-<h1>Aman kumar singh</h1>
-father's name is:Sanjay singh
-<p>Aaush kumar singh</p>
+<p>Name:Kundan kumar singh</p>
+<p>Father's name:Chandeshwar singh</p>
+<p>Project name:Todo app version 2</p>
+
+
+
+
